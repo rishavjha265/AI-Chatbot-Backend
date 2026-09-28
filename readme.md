@@ -49,7 +49,7 @@ backend/
 ### 1. Clone the repository
 
 ```bash
-git clone 
+git clone https://github.com/rishavjha265/AI-Chatbot-Backend.git
 ```
 
 ### 2. Install dependencies
